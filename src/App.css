@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.app-container{
+  padding: 10px;
+}
+
+.app-head{
+  text-align: center;
+  color: red;
+}
